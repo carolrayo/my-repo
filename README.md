@@ -3,6 +3,8 @@
 
 ## Este archivo ha sido editado para el ejemplo 3.
 
+# Pasos seguidos para la tarea 4:
+
 ## Para esta tarea he elegido el repositorio de mi compañero de clase Adrián Martín.
 
 ## Ejemplo 1:
