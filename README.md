@@ -1,4 +1,5 @@
 
+## Este repositorio ha sido creado para el ejemplo 2.
 
 ## Este archivo ha sido editado para el ejemplo 3.
 
